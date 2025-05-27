@@ -1,0 +1,11 @@
+Sprint 1 Exercise 12 
+
+Inspecting a Commit
+
+Differences I noticed in both Commits
+
+I can see a list of Files for Commit 4e78b32
+Has a Readme File description for a Commit
+
+I  can see a list of Files for Commit cd981a0
+Has a Readme File Description for a Commit

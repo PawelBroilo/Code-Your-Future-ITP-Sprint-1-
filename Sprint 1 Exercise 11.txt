@@ -1,0 +1,7 @@
+Onboarding Sprint 1 Exercise 13
+
+Deployed version A educational blog is empty.
+Deployed version B educational blog contains a Blog with a Link.
+
+Deployed version C educational blog contains a Footer with Author Names of a Blog.
+
